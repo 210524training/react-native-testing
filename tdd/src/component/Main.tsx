@@ -11,7 +11,7 @@ const Main: React.FC<Props> = (): JSX.Element => {
       <Button 
         title={"hey"}
         onPress={() => {
-          window.alert('hellO!');
+          window.alert('hello, world!');
         }}
       />
     </>
